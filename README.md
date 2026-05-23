@@ -32,7 +32,7 @@ This project helps businesses understand customer behavior and make data-driven 
 ## 📷 Dashboard Preview
 
 
-![Customer Behavior Dashboard](Screenshot2026-05-23160504.png)
+![Customer Behavior Dashboard](https://github.com/SANTANU-PRATIHAR-CS/Customer-Behavior-Analysis/blob/main/Screenshot%202026-05-23%20160504.png)
 
 
 ## 👨‍💻 Author
