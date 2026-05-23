@@ -32,6 +32,8 @@ This project helps businesses understand customer behavior and make data-driven 
 ## 📷 Dashboard Preview
 
 
+![Customer Behavior Dashboard](Screenshot 2026-05-23 160504.png)
+
 
 ## 👨‍💻 Author
 
